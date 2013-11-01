@@ -27,6 +27,9 @@ To update the actions to provide a personal access token:
 - Replace 'PERSONAL_ACCESS_TOKEN'
 - Save the automator action.
 
+## Usage
+Automator services are typically available from the `<app name> -> Services` menu or in the right click menu. The services available are contextual. For example services that take text as input will only be avilable when text is selected and not when a file/folder is selected.
+
 ### Keyboard Shortcuts
 Sometimes it's painful to have to dig into menus to trigger an Automator service. However through `System Preferences -> Keyboard` you can easily setup a shortcut to any of the Services on your system.
 
