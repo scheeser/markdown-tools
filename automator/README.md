@@ -27,6 +27,9 @@ To update the actions to provide a personal access token:
 - Replace 'PERSONAL_ACCESS_TOKEN'
 - Save the automator action.
 
+### Keyboard Shortcuts
+Sometimes it's painful to have to dig into menus to trigger an Automator service. However through `System Preferences -> Keyboard` you can easily setup a shortcut to any of the Services on your system.
+
 [github api]: <http://developer.github.com/v3/markdown/#render-a-markdown-document-in-raw-mode>
 [github md]: <https://help.github.com/articles/github-flavored-markdown>
 [github auth]: <http://developer.github.com/v3/auth/#basic-authentication>
